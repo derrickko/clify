@@ -1,0 +1,15 @@
+{
+  "name": "derrickko-clify",
+  "owner": {
+    "name": "derrickko",
+    "url": "https://github.com/derrickko"
+  },
+  "plugins": [
+    {
+      "name": "clify",
+      "description": "Generate self-updating CLI repos from API documentation URLs.",
+      "version": "0.1.0",
+      "source": "./"
+    }
+  ]
+}

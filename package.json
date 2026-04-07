@@ -1,0 +1,18 @@
+{
+  "name": "clify",
+  "version": "0.1.0",
+  "description": "Generate self-updating CLI repos from API documentation URLs.",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/derrickko/clify.git"
+  },
+  "homepage": "https://github.com/derrickko/clify",
+  "bugs": {
+    "url": "https://github.com/derrickko/clify/issues"
+  }
+}

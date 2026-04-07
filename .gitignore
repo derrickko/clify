@@ -1,0 +1,4 @@
+node_modules/
+.env
+.docs-snapshot/
+.DS_Store

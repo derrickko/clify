@@ -1,0 +1,13 @@
+{
+  "name": "clify",
+  "version": "0.1.0",
+  "description": "Generate self-updating CLI repos from API documentation URLs. Produces Node.js CLIs with agent framework wrappers, smoke tests, and a self-learning knowledge system.",
+  "author": {
+    "name": "Derrick",
+    "url": "https://github.com/derrickko"
+  },
+  "homepage": "https://github.com/derrickko/clify",
+  "repository": "https://github.com/derrickko/clify",
+  "license": "MIT",
+  "keywords": ["cli-generator", "api", "openapi", "codegen", "agent"]
+}
